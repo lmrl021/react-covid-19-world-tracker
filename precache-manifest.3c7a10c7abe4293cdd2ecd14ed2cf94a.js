@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad8bac7ddf9f1c017a37003e431feef8",
+    "revision": "e67773d2c782882957db272f1d4b5f74",
     "url": "/react-covid-19-world-tracker/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-covid-19-world-tracker/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "1bf491162992277cbc4f",
+    "revision": "fc4592db8676422396e1",
     "url": "/react-covid-19-world-tracker/static/css/main.9eb54fc3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-covid-19-world-tracker/static/js/2.2290b7d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1bf491162992277cbc4f",
-    "url": "/react-covid-19-world-tracker/static/js/main.3e5f4a7d.chunk.js"
+    "revision": "fc4592db8676422396e1",
+    "url": "/react-covid-19-world-tracker/static/js/main.8f99bab9.chunk.js"
   },
   {
     "revision": "726eda5a39aa8abd9773",
